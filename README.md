@@ -1,5 +1,5 @@
 # 💫 About Me:
-{E}pitech Student<br><br>I'm currently learning C++<br><br>I'm always use Python
+{E}pitech Student 🏫
 
 
 ## 🌐 Socials:

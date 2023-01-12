@@ -1,5 +1,5 @@
 # 💫 About Me:
-{E}pitech Student 🏫
+{E}pitech Student 🏢
 
 
 ## 🌐 Socials:
